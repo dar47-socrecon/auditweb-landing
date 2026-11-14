@@ -7,7 +7,7 @@ Repo local:
 ~/auditweb-landing
 
 Repo GitHub:
-git@github.com:DaniAngel79/auditweb-landing.git
+git@github.com:dar47-socrecon/auditweb-landing.git
 
 Rama:
 main
@@ -16,10 +16,10 @@ Archivo público:
 index.html
 
 URL pública:
-https://daniangel79.github.io/auditweb-landing/
+https://dar47-socrecon.github.io/auditweb-landing/
 
 GitHub Pages:
-DaniAngel79/auditweb-landing
+dar47-socrecon/auditweb-landing
 Branch: main
 Folder: /root
 
@@ -42,7 +42,7 @@ Archivo de landing dentro del toolkit:
 ~/Proyect_jobs_independiente/landing/index.html
 
 Repo donde se subió una copia por error:
-DaniAngel79/-audit-web-toolkit
+dar47-socrecon/-audit-web-toolkit
 
 IMPORTANTE:
 El repo -audit-web-toolkit contiene la herramienta y una copia de la landing, pero NO es la landing pública principal.
@@ -77,7 +77,7 @@ Antes de modificar o publicar la landing:
    git push origin main
 
 5. Después verificar:
-   https://daniangel79.github.io/auditweb-landing/
+   https://dar47-socrecon.github.io/auditweb-landing/
 
 ---
 
